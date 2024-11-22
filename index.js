@@ -29,8 +29,8 @@ pool.query('SELECT * FROM estudiantes')
 
  //Ejercicio   
 
-//Tenes tiempo, tomate un tiempo para leer este código, sobre todo de la linea 97 a la 116
+//Tenes tiempo, tomate un tiempo para leer este código.
 
-// el archivo .env.example (recordá que el archivo que lee es .env que no debe subirse a github)
+// el archivo .env.example (recordá que el archivo que se lee es .env que no debe subirse a github)
 
 // Luego que lo estudiaste, conectate a la base de datos que hicimos ayer (u otra que tengas en la computadora) muestra todos los datos en la consola.
